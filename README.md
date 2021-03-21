@@ -1,0 +1,1 @@
+# Jewellery-management-system-code
